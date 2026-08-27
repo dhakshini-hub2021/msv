@@ -36,7 +36,7 @@ export function Header() {
             alt="MSV Authentic & Homemade logo"
             width={48}
             height={48}
-            className="h-11 w-11 rounded-full object-cover ring-1 ring-gold/60 sm:h-12 sm:w-12"
+            className="h-11 w-11 shrink-0 rounded-full object-contain ring-1 ring-gold/60 sm:h-12 sm:w-12"
           />
           <span className="leading-none">
             <span className="block font-display text-xl font-bold tracking-wide text-primary sm:text-2xl">
